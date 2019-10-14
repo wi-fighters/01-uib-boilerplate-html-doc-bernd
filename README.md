@@ -1,4 +1,4 @@
-# HTMl Document 
+# HTML Document 
 
 **Instructions**
 * Create an HTML file.
